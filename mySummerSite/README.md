@@ -1,6 +1,6 @@
-#My Summer Site
+# My Summer Site
 
-##How to run the project
+## How to run the project
 
 At first you have to install node.js so as to run it locally.
 
