@@ -1,5 +1,7 @@
 # My Summer Site
 
+Preview Here! -> https://github.com/davethan/MySummerSite/blob/master/mySummerSite/MySummerSite.gif
+
 ## How to run the project
 
 At first you have to install node.js so as to run it locally.
